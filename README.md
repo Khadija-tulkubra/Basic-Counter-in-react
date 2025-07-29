@@ -1,12 +1,62 @@
-# React + Vite
+# Basic Counter in React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React application that demonstrates the basic usage of React Hooks, specifically `useState`.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔼 Increment Button  
+- 🔽 Decrement Button  
+- 🔁 Reset Button
 
-## Expanding the ESLint configuration
+## 📚 Purpose
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project was built to practice and understand the concept of **React Hooks**, especially the `useState` hook. It helps in managing and updating component state in a functional component.
+
+## 🧠 Concepts Covered
+
+- Functional Components in React
+- State Management using `useState`
+- Handling Events in React
+
+## 🖼️ Screenshot
+<img width="481" height="594" alt="image" src="https://github.com/user-attachments/assets/a8f17958-2a87-4379-8b7b-1f28c6eff34b" />
+
+
+🛠️ Technologies Used
+React
+
+Vite
+
+JavaScript
+
+HTML/CSS
+
+💡 How to Run Locally
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/Khadija-tulkubra/Basic-Counter-in-react.git
+Navigate to the project folder:
+
+bash
+Copy
+Edit
+cd Basic-Counter-in-react
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+Start the development server:
+
+bash
+Copy
+Edit
+npm run dev
+Then open http://localhost:5173 in your browser to view the app.
+
+👩‍💻 Made by
+Khadija tul Kubra
