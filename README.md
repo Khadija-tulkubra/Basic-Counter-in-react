@@ -34,27 +34,18 @@ HTML/CSS
 💡 How to Run Locally
 Clone the repository:
 
-bash
-Copy
-Edit
+
 git clone https://github.com/Khadija-tulkubra/Basic-Counter-in-react.git
 Navigate to the project folder:
 
-bash
-Copy
-Edit
+
 cd Basic-Counter-in-react
 Install dependencies:
 
-bash
-Copy
-Edit
+
 npm install
 Start the development server:
 
-bash
-Copy
-Edit
 npm run dev
 Then open http://localhost:5173 in your browser to view the app.
 
